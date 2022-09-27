@@ -1,0 +1,4 @@
+Exception ignored in: <function Person.__del__ at 0x0000019F3B939FC0>
+Traceback (most recent call last):
+  File "C:\Users\nikit\AppData\Local\Temp\ipykernel_4684\2199438697.py", line 3, in __del__
+ValueError: Something went bump...
